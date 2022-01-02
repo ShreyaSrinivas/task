@@ -8,7 +8,8 @@ pasta
 chicken fry
 fish fry
 
-
+pizza
+burger
 
 
 thank you
