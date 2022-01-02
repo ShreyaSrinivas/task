@@ -5,6 +5,8 @@ welcome to the dishes menu
 paneer tikka
 mushroom fry
 pasta
+chicken fry
+fish fry
 
 
 
